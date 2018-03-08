@@ -1,0 +1,53 @@
+{
+  "employees": [
+  { "id": 1,
+    "firstName": "Anna", 
+    "lastName": "Chittom", 
+    "jobTitle": "Manager", 
+    "address": "831 Glastonbury Road",
+    "salary": 50000
+  },
+  { "id": 2,
+    "firstName": "Eddie", 
+    "lastName": "Jackson", 
+    "jobTitle": "Janitor", 
+    "address": "850 Greenland Drive" ,
+    "salary": 30000
+  },
+  { "id": 3,
+    "firstName": "Rob", 
+    "lastName": "Crandall", 
+    "jobTitle": "Cashier", 
+    "address": "666 Rattlesnake Lane",
+    "salary": 35000
+  },
+  { "id": 4,
+    "firstName": "Brandon", 
+    "lastName": "Green", 
+    "jobTitle": "President", 
+    "address": "123 Langwood Court",
+    "salary": 60000 
+  },
+  { "id": 5,
+    "firstName": "Fred", 
+    "lastName": "Smith", 
+    "jobTitle": "Vice President", 
+    "address": "500 Somewhere Lane",
+    "salary": 55000
+  },
+  { "id": 6,
+    "firstName": "Jeff", 
+    "lastName": "Moseley", 
+    "jobTitle": "Security", 
+    "address": "1040 Wynlands Circle",
+    "salary": 38000 
+  },
+  { "id": 7,
+    "firstName": "Joe", 
+    "lastName": "Green", 
+    "jobTitle": "Comedian", 
+    "address": "555 Example Street",
+    "salary": 42000
+   }
+  ]
+}
